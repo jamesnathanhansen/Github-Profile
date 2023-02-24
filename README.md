@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JamesNathanHansen
-- 👀 I’m interested in Robotics, Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning topics related to Data Science and Data Analysis
+- 👋 Hi, I’m James! You can find me across most platforms @jamesnathanhansen.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning as well Data Analysis.
+- 🌱 I’m currently studying for a MSc. in Artificial Intelligence and Machine Learning.
 
 <!---
 JamesNathanHansen/JamesNathanHansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
